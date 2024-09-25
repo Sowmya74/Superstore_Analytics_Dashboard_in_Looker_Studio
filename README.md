@@ -10,6 +10,8 @@ The **Superstore Analytics Dashboard** is a comprehensive data visualization pro
 - **Temporal Trends**: Visualization of order quantities over multiple years (2014-2017) to identify growth patterns and seasonal trends.
 - **City-Specific Data**: Detailed order statistics for major cities, showcasing urban market dynamics.
 
+[Dashboard](./Superstore_Analytics_Dashboard)
+
 ## Used Looker Studio for interactive dashboard. [View Dashboard](https://lookerstudio.google.com/embed/reporting/b1af5160-aa10-4866-a356-c575a7283050/page/l4XCE)
 
 ### Key Insights
